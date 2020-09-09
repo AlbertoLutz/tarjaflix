@@ -74,7 +74,7 @@
       ]
     },
     {
-      "titulo": "Tecnologia",
+      "titulo": "Curtas",
       "cor": "#9cd33b",
       "link_extra": {
         "text": "",
@@ -100,7 +100,7 @@
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Documentários",
       "cor": "orange",
       "videos": [
         {
@@ -125,7 +125,7 @@
       "titulo": "Séries",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
+        "text": "",
         "url": "https://www.alura.com.br/formacao-jogos-unity"
       },
       "videos": [
@@ -155,7 +155,7 @@
       "titulo": "Aprendendo a aprender tecnologia",
       "cor": "#6b5be2",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
+        "text": "",
         "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
       },
       "videos": [
